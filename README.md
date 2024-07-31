@@ -4,11 +4,11 @@ Logistic Regression is a statistical model that was developed in the field of st
 
 It was developed in order to calculate the growing population rate within an enviroment that has limited resources.
 
-Logistic Regression gets its name from its core function which is called as either the logistic function or the sigmoid function. The logistic function is an S-shaped curve that can take any real number and map it unto a value between 0 and 1 but never at those limits.Logistic Regression.png
+Logistic Regression gets its name from its core function which is called as either the logistic function or the sigmoid function. The logistic function is an S-shaped curve that can take any real number and map it unto a value between 0 and 1 but never at those limits.
 
 Representation Behind Logistic Regression
 
-It is just like the linear regression where the equation is its representation, the input values (x) are combined linearly using weights to predict an output (y). However the key difference is the predicted output will give us a binary value 0 or 1 rather than a continuous numerical value. The logistic regression equation can be expressed as the following: Logistic Regression Equation.png
+It is just like the linear regression where the equation is its representation, the input values (x) are combined linearly using weights to predict an output (y). However the key difference is the predicted output will give us a binary value 0 or 1 rather than a continuous numerical value. The logistic regression equation can be expressed as the following:
 
 P(y = 1|x) represent the probability of the positive class.
 The betas are the model's coefficients (weights) learned during training, while B0 is the bias
